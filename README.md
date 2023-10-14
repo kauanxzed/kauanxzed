@@ -9,9 +9,29 @@ I'm a passionate Software Engineer with a love for coding and exploring new tech
 - 📧 Email me at kauanlemesvalerio@gmail.com
 - 🌱 Currently learning TypeScript, NestJS, and intrigued by htmx and GoLang.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NestJS](https://nestjs.com/img/logo_text.svg)
+[
+  ![Visualizações](https://komarev.com/ghpvc/?username=kauanxzed)
+](https://bit.ly/3gQLF7q)
+
+---
+
+<section>
+
+<img src="./assets/html.svg" style="margin-right: 60px" />
+<img src="./assets/css.svg" style="margin-right: 60px" />
+<img src="./assets/javascript.svg" style="margin-right: 60px" />
+<img src="./assets/typescript.svg" style="margin-right: 60px" />
+<img src="./assets/nodejs.svg" style="margin-right: 60px" />
+<img src="./assets/nest.svg" style="margin-right: 60px" />
+<img src="./assets/git.svg" style="margin-right: 60px" />
+<img src="./assets/github.svg" style="margin-right: 60px" />
+<img src="./assets/nx.svg" style="margin-right: 60px" />
+
+</section>
+
+
+---
+
 ## What I'm Working On
 
 I'm currently working on a super cool recipe app for my college degree. It's a website where you can search for delicious recipes by the ingredients you have on hand. Stay tuned for some culinary magic!
