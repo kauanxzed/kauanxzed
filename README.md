@@ -33,7 +33,8 @@ I'm a passionate Software Engineer with a love for coding and exploring new tech
 ## What I'm Working On
 
 I'm currently working on a super cool recipe app for my college degree. It's a website where you can search for delicious recipes by the ingredients you have on hand. Stay tuned for some culinary magic!
-![Cookshow](https://cookshow.com.br)
+<br>
+https://cookshow.com.br
 
 ## Gaming Enthusiast
 
