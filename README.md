@@ -51,5 +51,3 @@ I'm currently working on a super cool recipe app for my college degree. It's a w
 - 🚀 I believe that in software development, the sky's not the limit; it's just the beginning.
 
 Let's connect and create something amazing together!
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=kauanvalerio.kauanvalerio)
