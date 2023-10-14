@@ -24,8 +24,7 @@ I'm currently working on a super cool recipe app for my college degree. It's a w
 
 ## GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauanvalerio&show_icons=true&theme=dark)
-
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanxzed)](https://github.com/anuraghazra/github-readme-stats)
 ## Fun Facts
 
 - 🚀 I believe that in software development, the sky's not the limit; it's just the beginning.
