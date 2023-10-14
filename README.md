@@ -9,7 +9,7 @@ I'm a passionate Software Engineer with a love for coding and exploring new tech
 - 📧 Email me at kauanlemesvalerio@gmail.com
 - 🌱 Currently learning TypeScript, NestJS, and intrigued by htmx and GoLang.
 
-[![Visualizações](https://komarev.com/ghpvc/?username=kauanxzed)]
+![Visualizações](https://komarev.com/ghpvc/?username=kauanxzed)
 
 ---
 
