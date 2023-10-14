@@ -15,15 +15,15 @@ I'm a passionate Software Engineer with a love for coding and exploring new tech
 
 <section>
 
-<img src="./assets/html.svg" style="margin-right: 60px" />
-<img src="./assets/css.svg" style="margin-right: 60px" />
-<img src="./assets/javascript.svg" style="margin-right: 60px" />
-<img src="./assets/typescript.svg" style="margin-right: 60px" />
-<img src="./assets/nodejs.svg" style="margin-right: 60px" />
-<img src="./assets/nest.svg" style="margin-right: 60px" />
-<img src="./assets/git.svg" style="margin-right: 60px" />
-<img src="./assets/github.svg" style="margin-right: 60px" />
-<img src="./assets/nx.svg" style="margin-right: 60px" />
+<img align="center" height="30" width="40" src="./assets/html.svg"  />
+<img align="center" height="30" width="40" src="./assets/css.svg"  />
+<img align="center" height="30" width="40" src="./assets/javascript.svg"  />
+<img align="center" height="30" width="40" src="./assets/typescript.svg"  />
+<img align="center" height="30" width="40" src="./assets/nodejs.svg"  />
+<img align="center" height="30" width="40" src="./assets/nest.svg"  />
+<img align="center" height="30" width="40" src="./assets/git.svg"  />
+<img align="center" height="30" width="40" src="./assets/github.svg"  />
+<img align="center" height="30" width="40" src="./assets/nx.svg" />
 <img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'>
 <img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
 </section>
