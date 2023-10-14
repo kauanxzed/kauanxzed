@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="90" fill="#38B2AC" />
+  <rect x="40" y="70" width="20" height="80" fill="#fff" />
+  <rect x="75" y="70" width="20" height="80" fill="#fff" />
+  <path d="M110,70 L120,150 L140,90 L160,150 L170,70" fill="#fff" />
+  <text x="25" y="175" fill="#fff" font-family="Arial" font-size="15">Tailwind CSS</text>
+</svg>
+
