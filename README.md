@@ -24,6 +24,7 @@ I'm a passionate Software Engineer with a love for coding and exploring new tech
 <img src="./assets/git.svg" style="margin-right: 60px" />
 <img src="./assets/github.svg" style="margin-right: 60px" />
 <img src="./assets/nx.svg" style="margin-right: 60px" />
+<img src="./assets/tailwindcss.svg" style="margin-right: 60px" />
 
 </section>
 
