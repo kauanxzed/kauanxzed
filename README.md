@@ -7,7 +7,7 @@ I'm a passionate Software Engineer with a love for coding and exploring new tech
 - 💼 Junior Developer
 - 🌐 [Check out my LinkedIn](https://www.linkedin.com/in/kauan-valerio-5934b1219)
 - 📧 Email me at kauanlemesvalerio@gmail.com
-- 🌱 Currently learning TypeScript, NestJS, and intrigued by htmx and GoLang.
+- 🌱 Currently learning TypeScript, NestJS, Nextjs and intrigued by htmx and GoLang.
 
 ![Visualizações](https://komarev.com/ghpvc/?username=kauanxzed)
 
@@ -38,7 +38,6 @@ https://cookshow.com.br
 
 ## Gaming Enthusiast
 
-- 🎮 I love competitive gaming, especially League of Legends and Counter-Strike.
 - 🎮 As a true gaming aficionado, I've conquered countless digital worlds and battled epic foes.
 
 ## The Legend of Zelda Fan
