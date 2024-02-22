@@ -24,7 +24,7 @@ I'm a passionate Software Engineer with a love for coding and exploring new tech
 <img align="center" height="30" width="40" src="./assets/git.svg"  />
 <img align="center" height="30" width="40" src="./assets/github.svg"  />
 <img align="center" height="30" width="40" src="./assets/nx.svg" />
-<img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'>
+<img align="center" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg'>
 <img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
 </section>
 
